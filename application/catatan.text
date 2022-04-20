@@ -1,0 +1,5 @@
+untuk server baru
+harus enable read_write
+dengan
+sudo a2enmod rewrite
+restart apache2
